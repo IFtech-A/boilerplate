@@ -1,6 +1,7 @@
 {
 	"author": "Feruz Iskandarov",
 	"name": "fcc-learn-npm-package-json",
+	"description": "Api and Microservices challenge",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
